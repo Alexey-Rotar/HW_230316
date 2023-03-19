@@ -41,8 +41,7 @@ for i in list_5:
 for i in list_8:
     dict[i] = 8
 for i in list_10:
-    dict[i] = 10   
-# print(dict)
+    dict[i] = 10
 
 word = input("Введите слово: ")
 cost = 0
